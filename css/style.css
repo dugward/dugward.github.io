@@ -42,6 +42,8 @@
 
   .box  img{
     filter: opacity(80%);
+    height: 165px;
+    width: 250px;
   }
 
   .box  img:hover{
